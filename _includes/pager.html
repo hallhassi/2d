@@ -1,0 +1,165 @@
+{% for post in site.categories.public %}
+    {% if post.url == page.url %}
+        {% assign post_index0 = forloop.index0 %}
+        {% assign post_index1 = forloop.index %}
+    {% endif %}
+{% endfor %}
+{% for post in site.categories.public %}
+    {% if post_index0 == forloop.index %}
+        {% assign next_article = post %}
+    {% endif %}
+    {% if post_index1 == forloop.index0 %}
+        {% assign prev_article = post %}
+    {% endif %}
+{% endfor %}
+{% for post in site.categories.explodingwrists %}
+    {% if post.url == page.url %}
+        {% assign post_index0 = forloop.index0 %}
+        {% assign post_index1 = forloop.index %}
+    {% endif %}
+{% endfor %}
+{% for post in site.categories.explodingwrists %}
+    {% if post_index0 == forloop.index %}
+        {% assign next_article = post %}
+    {% endif %}
+    {% if post_index1 == forloop.index0 %}
+        {% assign prev_article = post %}
+    {% endif %}
+{% endfor %}
+{% for post in site.categories.comics %}
+    {% if post.url == page.url %}
+        {% assign post_index0 = forloop.index0 %}
+        {% assign post_index1 = forloop.index %}
+    {% endif %}
+{% endfor %}
+{% for post in site.categories.comics %}
+    {% if post_index0 == forloop.index %}
+        {% assign next_comic = post %}
+    {% endif %}
+    {% if post_index1 == forloop.index0 %}
+        {% assign prev_comic = post %}
+    {% endif %}
+{% endfor %}
+{% for post in site.categories.shop %}
+    {% if post.url == page.url %}
+        {% assign post_index0 = forloop.index0 %}
+        {% assign post_index1 = forloop.index %}
+    {% endif %}
+{% endfor %}
+{% for post in site.categories.shop %}
+    {% if post_index0 == forloop.index %}
+        {% assign next_product = post %}
+    {% endif %}
+    {% if post_index1 == forloop.index0 %}
+        {% assign prev_product = post %}
+    {% endif %}
+{% endfor %}
+
+<footer class='keyline-top keyline-bottom space-bottom4 clearfix col12'>
+{% if page.category == 'explodingwrists' %}
+  {% if next_article %}
+  <a class='col6 button major forward' href="{{site.baseurl}}{{next_article.url}}">
+    <span>{{next_article.title}}</span>
+    <div class='subtitle author deephasize'>
+      {% for name in next_article.author %}
+        <span>{{name}}</span>
+      {% endfor %}
+    </div>
+  </a>
+
+  {% endif %}
+  {% if prev_article %}
+    <a class='col6 button major back' href='{{site.baseurl}}{{prev_article.url}}'>
+      <span>{{prev_article.title}}</span>
+      <div class='subtitle author deephasize'>
+        {% for name in prev_article.author %}
+          <span>{{name}}</span>
+        {% endfor %}
+      </div>
+    </a>
+  {% endif %}
+{% endif %}
+
+{% if page.category == 'comics' %}
+  {% if next_comic %}
+  <a class='col6 button major forward' href="{{site.baseurl}}{{next_comic.url}}">
+    <span>{{next_comic.title}}</span>
+    <div class='subtitle author quiet'>
+      {% for name in next_comic.author %}
+        <span>{{name}}</span>
+      {% endfor %}
+    </div>
+  </a>
+  {% endif %}
+  {% if prev_comic %}
+    <a class='col6 button major back' href='{{site.baseurl}}{{prev_comic.url}}'>
+      <span>{{prev_comic.title}}</span>
+      <div class='subtitle author quiet'>
+        {% for name in prev_comic.author %}
+          <span>{{name}}</span>
+        {% endfor %}
+      </div>
+    </a>
+  {% endif %}
+{% endif %}
+
+{% if page.category == 'shop' %}
+  {% if next_product %}
+  <a class='col4 button major forward' href="{{site.baseurl}}{{next_product.url}}">
+    <span>{{next_product.title}}</span>
+      {% if next_product.noauthor %}{% else %}<div class='subtitle author quiet'>
+      {% for name in next_product.author %}
+        <span>{{name}}</span>
+      {% endfor %}
+    </div>
+      {% endif %}
+    </a>
+  {% endif %}
+  <a class='col4 button major center' href='../'>
+    <span>Back to the Shop</span>
+     <div class='subtitle'>See everything</div>
+  </a>
+  {% if prev_product %}
+    <a class='col4 button major back' href='{{site.baseurl}}{{prev_product.url}}'>
+      <span>{{prev_product.title}}</span>
+      {% if prev_product.noauthor %}{% else %}        
+        <div class='subtitle author quiet'>
+      {% for name in prev_product.author %}
+        <span>{{name}}</span>
+      {% endfor %}
+        </div>
+      {% endif %}
+    </a>
+  {% endif %}
+{% endif %}
+
+{% if page.category == 'public' %}
+  {% if next_article %}
+  <a class='col6 button major forward' href="{{site.baseurl}}{{next_article.url}}">
+    <span>{{next_article.title}}</span>
+      
+        {% if next_article.noauthor %}{% else %}<div class='subtitle author deephasize'>
+      {% for name in next_article.author %}
+        <span>{{name}}</span>
+      {% endfor %}
+    </div>
+        {% endif %}
+  </a>
+
+  {% endif %}
+  {% if prev_article %}
+    <a class='col6 button major back' href='{{site.baseurl}}{{prev_article.url}}'>
+      <span>{{prev_article.title}}</span>
+      {% if prev_article.noauthor %}{% else %}<div class='subtitle author deephasize'>
+        {% for name in prev_article.author %}
+          <span>{{name}}</span>
+        {% endfor %}
+      </div>
+        {% endif %}
+    </a>
+  {% endif %}
+{% endif %}
+
+    
+
+</footer>

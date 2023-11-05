@@ -1,0 +1,10 @@
+---
+---
+callback([
+{% for item in site.categories.author %}
+  {
+    "name": "{{item.title}}",
+    "value": "{{item.title}}"
+  } {% unless forloop.last %},{% endunless%}
+{% endfor %}
+])

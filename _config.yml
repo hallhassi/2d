@@ -1,0 +1,200 @@
+baseurl:
+permalink: /:categories/:title
+markdown: kramdown
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://2dcloud.com'
+  media: 'media'
+  metadata:
+    #Core pages
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+      - name: "permalink"
+        field:
+          element: "hidden"
+      - name: "categories"
+        field:
+          element: "hidden"
+      - name: "nav"
+        field:
+          element: "hidden"
+      - name: "introduction"
+        field:
+          element: "textarea"
+          help: "This text appears above your post content. Use markdown for formatting."
+          label: "Introductory paragraph"
+          value: ""
+    #Author profiles
+    _posts/authors:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "author"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "comics-author"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          placeholder: "Martha Washington"
+          value: ""
+      - name: "comicnav"
+        field:
+          label: "Show author on comics page"
+          element: "checkbox"
+          value: ""
+      - name: "introduction"
+        field:
+          label: "Author biography (keep it short)"
+          element: "text"
+          placeholder: "Martha Washington was a small, frumpy woman who never made a single comic in her life."
+          value: ""
+          type: textarea
+      - name: "image"
+        field:
+          label: "Author profile image (jpg)"
+          element: "text"
+          placeholder: "www.domain.com/your-image.jpg"
+          value: ""
+    #Comic posts
+    _posts/comics:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "comic"
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "comics"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: ""
+      - name: "author"
+        field:
+          element: "multiselect"
+          label: "Author (3 max)"
+          options: "http://2dcloud.com/artists.jsonp?callback=callback"
+      - name: "seriesid"
+        field:
+          element: "text"
+          label: "Series Name"
+          placeholder: "Leave empty if no"
+          value: ""
+      - name: "cover"
+        field:
+          label: "Cover image URL"
+          element: "text"
+          placeholder: "http://example.com/img.jpg"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: true
+          options: "http://2dcloud.com/tags.jsonp?callback=tags"
+    #Prose posts
+    _posts/explodingwrists:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "article"
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "explodingwrists"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "author"
+        field:
+          element: "multiselect"
+          label: "Author (3 max)"
+          options: "http://2dcloud.com/artists.jsonp?callback=callback"
+      - name: "cover"
+        field:
+          label: "Cover image URL"
+          element: "text"
+          placeholder: "http://example.com/img.jpg"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: true
+          options: "http://2dcloud.com/tags.jsonp?callback=tags"
+    #Shop posts
+    _posts/shop:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "product"
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "shop"
+      - name: "date"
+        field:
+          element: "text"
+          help: "Use the date to adjust the order of posts. By default, posts are order by date created. Follows the YYYY-MM-DD format"
+          placeholder: "2012-07-08"
+          label: "Date"
+          value: ""
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "author"
+        field:
+          element: "multiselect"
+          label: "Author (3 max)"
+          options: "http://2dcloud.com/artists.jsonp?callback=callback"
+      - name: "external"
+        field:
+          label: "External links"
+          help: "Use markdown syntax, to link to external resources, like [linkname](linkurl)."
+          element: "text"
+          value: ""
+      - name: "image"
+        field:
+          element: "text"
+          placeholder: "http://example.com/img.jpg"
+          label: "Image"
+          value: ""
+      - name: "image2"
+        field:
+          element: "text"
+          label: "Second image (optional)"
+          placeholder: "http://example.com/img.jpg"
+          value: ""
+      - name: "image3"
+        field:
+          element: "text"
+          label: "Third image (optional)"
+          placeholder: "http://example.com/img.jpg"
+          value: ""
+      - name: "image4"
+        field:
+          element: "text"
+          label: "Fourth image (optional)"
+          placeholder: "http://example.com/img.jpg"
+          value: ""
+      - name: "price"
+        field:
+          element: "text"
+          label: "Price"
+          value: ""
+      - name: "nowholesale"
+        field:
+          label: "Exclude from wholesale"
+          element: "checkbox"
+          value: ""

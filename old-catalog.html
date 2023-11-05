@@ -1,0 +1,42 @@
+---
+layout: default-alt-4
+title: 2dcloud
+section: shop
+---
+
+{% include header-clear.html %}
+
+<script type="text/javascript">
+$('.scroll').jscroll();
+</script>
+
+
+<div style='overflow:hidden; width:100%; margin-top:2.6em;'>
+    
+    <div>
+            
+        <div style='width:100%;'>
+            
+            <div>
+                
+            {% for article in site.posts %}
+
+            {% if article.category == 'shop' %}
+
+                <article class='col4nomax shop-item' style='position:relative;' style='z-index:1;'>
+
+                {% include feed-shop-alt-2.html %}
+
+                </article>
+
+            {% endif %}
+
+            {% endfor %}
+                
+            </div>        
+        
+        </div>
+        
+    </div>
+    
+</div>

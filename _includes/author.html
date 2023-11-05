@@ -1,0 +1,9 @@
+{% for author in site.categories.author %}
+  {% if page.author contains author.title %}
+    {% if author.comicnav == true %}
+      <a href='{{site.baseurl}}{{author.url}}'>{{author.title}}</a>
+    {% else %}
+      <span>{{author.title}}</span>
+    {% endif %}
+  {% endif %}
+{% endfor %}

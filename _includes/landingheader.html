@@ -1,0 +1,20 @@
+{% capture imagepath %}
+  {% if page.image contains 'http' %}
+    {{page.image}}
+  {% else %}
+    {{site.baseurl}}/img/{{page.image}}
+  {% endif %}
+{% endcapture %}
+
+  {% if page.category == 'author' %}
+
+  <div class='intro-picture circle col4' style="background-image:url({{imagepath}})"></div>
+  <div class='intro-text col8 margin1'>
+    <p class='quiet'><strong>{{page.title}} </strong>{{page.introduction}}</p>
+  </div>
+
+  {% else %}
+
+  <div>{{page.introduction | markdownify}}</div>
+
+  {% endif %}

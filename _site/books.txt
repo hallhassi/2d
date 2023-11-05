@@ -1,0 +1,1096 @@
+2009-06-04
+"published": "true"
+"title": "Yearbooks"
+"price": "10"
+"author": "Nicholas Breutzman"
+"author": "Raighne Hogan"
+"pages": "40"
+"width": "11"
+"height": "8"
+
+2010-06-04
+"published": "true"
+"title": "Arthur Turnkey vol. 1"
+"price": "5"
+"author": "Toby Jones"
+"pages": "32"
+"width": "5"
+"height": "4"
+
+2010-11-01
+"published": "true"
+"title": "Things You Carry"
+"price": "10"
+"author": "Vincent Stall"
+"pages": "96"
+"width": "6"
+"height": "6"
+
+2011-1-10
+"published": "true"
+"title": "Motherlover"
+"price": "10"
+"author": "Luke Holden"
+"author": "Nicholas Breutzman"
+"author": "Raighne Hogan"
+"pages": "72"
+"width": "5.5"
+"height": "7.5"
+
+2011-12-04
+"published": "true"
+"title": "Brothersister"
+"price": "5"
+"author": "Various"
+"pages": "28"
+"width": "7.5"
+"height": "5.5"
+
+2012-06-04
+"published": "true"
+"title": "Startled Maggie"
+"price": "5"
+"author": "Maggie Umber"
+"pages": "32"
+"width": "5"
+"height": "7"
+
+2012-06-10
+"published": "true"
+"title": "RDCD FIST 1.5"
+"author": "Justin Skarhus"
+"price": "2"
+"pages": "22"
+"width": "3.25"
+"height": "4.25"
+
+2012-07-05
+"published": "true"
+"title": "Period"
+"author": "Christopher Adams"
+"price": "5"
+"pages": "32"
+"width": "5.5"
+"height": "8.5"
+
+2013-07-05
+"published": "true"
+"title": "Ablatio Penis"
+"author": "Will Dinski"
+"price": "5"
+"pages": "48"
+"width": "6"
+"height": "8"
+
+2013-08-06
+"published": "true"
+"title: "Little Heart": "A Comic Anthology for Marriage Equality""
+"author": "Various"
+"price": "10"
+"pages": "176"
+"width": "5"
+"height": "6"
+
+2013-08-07
+"published": "true"
+"title": "Deep in the Woods"
+"price": "5"
+"author": "Noah Van Sciver"
+"author": "Nicholas Breutzman"
+"pages": "30"
+"width": "11.5"
+"height": "17.5"
+
+2013-08-09
+"published": "true"
+"title": "Strong Eye Contact"
+"price": "14.95"
+"author": "Christopher Adams"
+"pages": "104"
+"width": "9"
+"height": "6.75"
+
+2013-08-10
+"published": "true"
+"title": "Abyss"
+"author": "Saman Bemel-Benrud"
+"price": "8"
+"pages": "40"
+"width": "5.5"
+"height": "8.5"
+
+2013-09-01
+"published": "true"
+"title": "Out of Hollow Water"
+"author": "Archie Bongiovanni"
+"price": "10.95"
+"pages": "104"
+"width": "6"
+"height": "6"
+
+2013-11-02
+"published": "true"
+"title": "Yule Log"
+"price": "5"
+"author": "Christopher Adams"
+"pages": "24"
+"width": "8.25"
+"height": "10.5"
+
+2013-11-06
+"published": "true"
+"title": "Easter Island"
+"price": "2"
+"author": "Christopher Adams"
+"pages": "8"
+"width": "4"
+"height": "5"
+
+2013-11-17
+"published": "true"
+"title": "Looking Good"
+"price": "2.50"
+"author": "Will Dinski"
+"pages": "8"
+"width": "4.125"
+"height": "5.375"
+
+2013-11-21
+"published": "true"
+"title": "no title"
+"price": "2"
+"author": "Ellen Redshaw"
+"pages": "8"
+"width": "4"
+"height": "5"
+
+2014-03-27
+"published": "true"
+"title": "Skizzenbuch"
+"price": "12"
+"author": "Julie Doucet"
+"pages": "32"
+"width": "4.125"
+"height": "6.5"
+
+2014-05-06
+"published": "true"
+"title": "Detrimental Information"
+"price": "19.95"
+"author": "John Holden"
+"author": "Luke Holden"
+"pages": "296"
+"width": "6"
+"height": "7"
+
+2014-09-10
+"published": "true"
+"title": "Rudy"
+"author": "Mark Connery"
+"price": "21.95"
+"pages": "240"
+"width": "6.25"
+"height": "8"
+
+2014-09-30
+"published": "true"
+"title": "Dragon's Breath"
+"price": "24.95"
+"author": "MariNaomi"
+"pages": "384"
+"width": "6"
+"height": "9"
+
+2014-10-15
+"published": "true"
+"title": "An Honest Performance"
+"author": "Will Dinski"
+"price": "5"
+"pages": "24"
+"width": "5"
+"height": "5.75"
+
+2014-10-17
+"published": "true"
+"title": "Art Scrap Craft"
+"author": "Julie Doucet"
+"price": "5"
+"pages": "8""
+"width": "4"
+"height": "5"
+
+2014-10-20
+"published": "true"
+"title": "How it Happened"
+"author": "Jason T. Miles"
+"price": "5"
+"pages": "24"
+"width": "5"
+"height": "7"
+
+2014-10-30
+"published": "true"
+"title": "Cavities &amp; Crevices"
+"author": "Archie Bongiovanni"
+"price": "3"
+"pages": "8"
+"width": "4"
+"height": "5.5"
+
+2014-11-05
+"published": "true"
+"title": "Rudy mini"
+"author": "Mark Connery"
+"price": "3"
+"pages": "8"
+"width": "4.25"
+"height": "5.5"
+
+2014-11-10
+"published": "true"
+"title": "Great Heights"
+"author": "MariNaomi"
+"price": "3"
+"pages": "8"
+"width": "4.25"
+"height": "5.5"
+
+2014-11-12
+"published": "true"
+"title": "Harvest"
+"author": "Nicholas Breutzman"
+"price": "3"
+"pages": "8"
+"width": "4.25"
+"height": "5.5"
+
+2014-11-18
+"published": "true"
+"title": "The Arborist's Companion"
+"author": "Mayme Donsker"
+"price": "4"
+"pages": "12"
+"width": "4.25"
+"height": "5.5"
+
+2014-11-26
+"published": "true"
+"title": "The Adorable Little School of Art of Canada"
+"price": "12"
+"author": "Julie Doucet"
+"pages": "40"
+"width": "4.375"
+"height": "6"
+
+2014-12-11
+"published": "true"
+"title": "Concupiscence"
+"author": "Vincent Stall"
+"price": "5"
+"pages": "12"
+"width": "4.5"
+"height": "6.5"
+
+2015-03-05
+"published": "true"
+"title": "I Don't Hate Your Guts"
+"author": "Noah Van Sciver"
+"price": "5"
+"pages": "30"
+"width": "5"
+"height": "7"
+
+2015-03-10
+"published": "true"
+"title": "Comets Comets"
+"author": "Blaise Larmee"
+"price": "5"
+"pages": "32"
+"width": "5"
+"height": "4"
+
+2015-04-01
+"published": "true"
+"title": "Big Pussy"
+"author": "Gina Wynbrandt"
+"price": "5"
+"pages": "24"
+"width": "5"
+"height": "7"
+
+2015-04-04
+"published": "true"
+"title": "Salz &amp; Pfeffer"
+"author": "Emilie Gleason"
+"price": "14.95"
+"pages": "76"
+"width": "5"
+"height": "7"
+
+2015-04-05
+"published": "true"
+"title": "Qviet"
+"author": "Andy Burkholder"
+"price": "22.95"
+"pages": "248"
+"width": "5.5"
+"height": "7"
+
+2015-09-23
+"published": "true"
+"title": "Summer Carnival"
+"author": "Jake Terrell"
+"price": "8"
+"pages": "24"
+"width": "5"
+"height": "7"
+
+2015-09-24
+"published": "true"
+"title": "The Necrophilic Landscape"
+"author": "Tracy Auch"
+"price": "12"
+"pages": "32"
+"width": "7.75"
+"height": "9.25"
+
+2015-09-25
+"published": "true"
+"title": "Altcomics Magazine 1"
+"author": "Altcomics"
+"author": "Blaise Larmee"
+"author": "Nou"
+"author": "Aidan Koch"
+"author": "Sab"
+"author": "Lala Albert"
+"author": "Leah Wishnia"
+"price": "5"
+"pages": "16"
+"width": "7.5"
+"height": "10"
+
+2015-09-26
+"published": "true"
+"title": "Time Capsule"
+"author": "Maggie Umber"
+"price": "11.95"
+"pages": "52"
+"width": "6"
+"height": "6"
+
+2016-01-01
+"published": "true"
+"title": "Altcomics Magazine 2"
+"author": "Altcomics"
+"author": "Blaise Larmee"
+"author": "Margot Ferrick"
+"author": "Austin English"
+"author": "Frank Santoro"
+"author": "Dylan Williams"
+"author": "Scott Longo"
+"author": "Kristina Tzekova"
+"price": "5"
+"pages": "16"
+"width": "7.5"
+"height": "10"
+
+2016-01-03
+"published": "true"
+"title": "Sec"
+"author": "Margot Ferrick"
+"price": "5"
+"pages": "32"
+"width": "5.5"
+"height": "8.5"
+
+2016-01-05
+"published": "true"
+"title": "Mirror Mirror #1"
+"price": "27.95"
+"author": "Mirror Mirror"
+"author": "Blaise Larmee"
+"author": "Margot Ferrick"
+"author": "Tracy Auch"
+"author": "Andrea Bjurström"
+"author": "Caroline Hennessy"
+"author": "Nicholas Verstraeten"
+"author": "Nou"
+"author": "Leslie Weibeler"
+"author": "Katherine Poe"
+"author": "Connor Willumsen"
+"author": "Leon Sadler"
+"pages": "192"
+"width": "6.93"
+"height": "9.84"
+
+2016-01-06
+"published": "true"
+"title": "Gulag Casual"
+"author": "Austin English"
+"price": "24.95"
+"pages": "160"
+"width": "7"
+"height": "10"
+
+2016-01-08
+"published": "true"
+"title": "ITDN"
+"price": "22.95"
+"author": "Andy Burkholder"
+"pages": "192"
+"width": "5.5"
+"height": "7"
+
+2016-06-01
+"published": "true"
+"title": "Altcomics Magazine 3"
+"price": "5"
+"author": "Altcomics"
+"author": "Sab Meynert"
+"author": "GG"
+"author": "Eli Howey"
+"author": "Juli Majer"
+"pages": "16"
+"width": "7.5"
+"height": "10"
+
+2016-06-02
+"published": "true"
+"title": "Trying Not To Notice"
+"price": "12.95"
+"author": "Will Dinski"
+"pages": "196"
+"width": "5.25"
+"height": "7.75"
+
+2016-06-04
+"published": "true"
+"title": "Virus Tropical"
+"price": "24.95"
+"author": "Powerpaola"
+"pages": "160"
+"width": "6 3/8"
+"height": "8 5/8"
+
+2016-06-07
+"published": "true"
+"title": "Someone Please Have Sex With Me"
+"price": "17.95"
+"author": "Gina Wynbrandt"
+"pages": "140"
+"width": "5.1"
+"height": "6.5"
+
+2016-06-08
+"published": "true"
+"title": "Turning Japanese"
+"price": "24.95"
+"author": "MariNaomi"
+"pages": "228"
+"width": "6.3"
+"height": "8"
+
+2016-11-16
+"published": "true"
+"title": "Altcomics Magazine 4"
+"price": "5"
+"author": "Altcomics"
+"author": "Blaise Larmee"
+"author": "Tommi Parrish"
+"author": "Maggie Umber"
+"author": "Juliacks"
+"author": "Tracy Auch"
+"author": "Kim Jooha"
+"author": "Wiley Guillot"
+"author": "Christopher L G Hill"
+"pages": "16"
+"width": "8.5"
+"height": "11"
+
+2016-11-25
+"published": "true"
+"title": "Extended Play"
+"price": "18.95"
+"author": "Jake Terrell"
+"pages": "112"
+"width": "6.2"
+"height": "8"
+
+2016-11-27
+"published": "true"
+"title": "Sprawling Heart"
+"price": "9.95"
+"author": "Sab Meynert"
+"pages": "52"
+"width": "7.8"
+"height": "5.8"
+
+2016-11-29
+"published": "true"
+"title": "Perfect Hair"
+"price": "16.95"
+"author": "Tommi Parrish"
+"pages": "72"
+"width": "6.2"
+"height": "8.9"
+
+2017-04-03
+"published": "true"
+"title": "Altcomics Magazine 5"
+"price": "5"
+"author": "Altcomics"
+"author": "Blaise Larmee"
+"author": "Paul Peng"
+"author": "Ashlee HG"
+"author": "Almon"
+"pages": "24"
+"width": "8.5"
+"height": "11"
+
+2017-04-05
+"published": "true"
+"title": "Sound of Snow Falling"
+"price": "22.95"
+"author": "Maggie Umber"
+"pages": "104"
+"width": "6.8"
+"height": "8.5"
+
+2017-04-10
+"published": "true"
+"title": "Yours"
+"price": "23.95"
+"author": "Margot Ferrick"
+"pages": "140"
+"width": "6.4"
+"height": "8.4"
+
+2017-04-15
+"published": "true"
+"title": "Mirror Mirror II"
+"price": "39.95"
+"author": "Mirror Mirror"
+"author": "Sean T. Collins"
+"author": "Lala Albert"
+"author": "Clive Barker"
+"author": "Julia Gfrörer"
+"author": "Heather Benjamin"
+"author": "Apolo Cacho"
+"author": "Sean Christensen"
+"author": "Nicole Claveloux"
+"author": "Al Columbia"
+"author": "Dame Darcy"
+"author": "Noel Freibert"
+"author": "Renee French"
+"author": "Meaghan Garvey"
+"author": "Simon Hanselmann"
+"author": "Aidan Koch"
+"author": "Laura Lannes"
+"author": "Céline Loup"
+"author": "Uno Moralez"
+"author": "Mou"
+"author": "Jonny Negron"
+"author": "Claude Paradin"
+"author": "Chloe Piene"
+"author": "Josh Simmons"
+"author": "Carol Swain"
+"author": "Trungles"
+"pages": "240"
+"width": "6"
+"height": "9"
+
+2017-04-18-100
+"published": "true"
+"title": "100"
+"price": "5"
+"author": "Nou"
+"pages": "24"
+"width": "4"
+"height": "5"
+
+2017-06-02
+"published": "false"
+"title": "Kindling"
+"price": "8"
+"author": "Xia Gordon"
+"pages": "32"
+"width": "4"
+"height": "5"
+
+2017-06-12
+"published": "true"
+"title": "Retreat"
+"price": "19.95"
+"author": "Jaakko Pallasvuo"
+"pages": "104"
+"width": "8.25"
+"height": "11.7"
+
+2017-06-20
+"published": "true"
+"title": "Lost in the Fun Zone"
+"price": "19.95"
+"author": "Leif Goldberg"
+"pages": "184"
+"width": "8"
+"height": "4.6"
+
+2017-07-02
+"published": "true"
+"title": "Architecture of an Atom"
+"price": "44.95"
+"author": "Juliacks"
+"pages": "296"
+"width": "7"
+"height": "10.9"
+
+2017-11-15-2001
+"title": "2001"
+"price": "24.95"
+"author": "Blaise Larmee"
+"pages": "176"
+"width": "7"
+"height": "10"
+
+2018-05-02
+"published": "true"
+"title": "Well Come"
+"price": "5"
+"author": "Erik Nebel"
+"pages": "100"
+"width": "5.5"
+"height": "8.5"
+
+2018-06-24
+"published": "true"
+"title": "Winter 2015 Tee"
+"author": "Collection"
+"author": "Andrew Burkholder"
+"author": "Austin English"
+"author": "Nou "
+"author": "Tracy Auch"
+"author": "Andrea Bjürstrom"
+"author": "Leslie Weibeler"
+"author": "Caroline Hennessy"
+"author": "Nicholas Verstraeten"
+"author": "Katherine Poe"
+"author": "Margot Ferrick"
+"author": "Connor Willumsen"
+"author": "Leon Sadler"
+"author": "Blaise Larmee"
+"price": "20"
+
+2018-06-25
+"published": "true"
+"title": "Spring 2016 Tee"
+"author": "Collection"
+"author": "MariNaomi"
+"author": "Gina Wynbrandt"
+"author": "Powerpaola"
+"author": "Will Dinski"
+"price": "20"
+
+2018-06-26
+"published": "true"
+"title": "Fall 2016 Tee"
+"author": "Collection"
+"author": "Sab Meynert"
+"author": "Tommi Parrish"
+"author": "Jake Terrell "
+"author": "Carta Monir"
+"author": "Simon Hanselmann"
+"author": "Raighne"
+"price": "20"
+
+2018-06-27
+"published": "true"
+"title": "Spring 2017 Tee"
+"author": "Collection"
+"author": "Margot Ferrick"
+"author": "Maggie Umber"
+"author": "Sean T. Collins"
+"author": "Julia Gfrörer"
+"author": "Nou"
+"author": "Lala Albert  "
+"author": "Clive Barker  "
+"author": "Heather Benjamin  "
+"author": "Apolo Cacho  "
+"author": "Sean Christensen  "
+"author": "Nicole Claveloux    "
+"author": "Al Columbia  "
+"author": "Dame Darcy  "
+"author": "Noel Freibert  "
+"author": "Renee French  "
+"author": "Meaghan Garvey"
+"author": "Simon Hanselmann "
+"author": "Claude Paradin  "
+"author": "Aidan Koch  "
+"author": "Laura Lannes  "
+"author": "Céline Loup  "
+"author": "Uno Moralez  "
+"author": "Nou  "
+"author": "Jonny Negron  "
+"author": "Chloe Piene  "
+"author": "Josh Simmons  "
+"author": "Carol Swain "
+"author": "Trungles"
+"price": "20"
+
+2018-06-28
+"published": "true"
+"title": "Gustave Flaubert Trois Contes"
+"price": "5"
+"author": "Christopher Adams"
+"pages": "24"
+"width": "5"
+"height": "7"
+
+2018-06-29
+"published": "true"
+"title": "It Felt Like Nothing"
+"price": "5"
+"author": "Fifi Martinez"
+"pages": "24"
+"width": "5"
+"height": "8"
+
+2018-06-30
+"published": "true"
+"title": "A Tunnel to Another Place"
+"price": "10"
+"author": "Apolo Cacho"
+"pages": "32"
+"width": "5"
+"height": "7"
+
+2018-07-01
+"published": "true"
+"title": "Wander Maunder"
+"price": "25"
+"author": "Justin Skarhus"
+"pages": "80"
+"width": "6"
+"height": "6"
+
+2018-07-02
+"published": "true"
+"title": "Vanishing Perspective"
+"price": "20.95"
+"author": "Alexis Beauclair"
+"pages": "124"
+"width": "7.4"
+"height": "10.4"
+
+2018-07-03-270
+"published": "true"
+"title": "270&#186;"
+"price": "14.95"
+"author": "Maggie Umber"
+"pages": "136"
+"width": "6"
+"height": "6"
+
+2018-07-04
+"published": "true"
+"title": "Fluorescent Mud"
+"price": "16.95"
+"author": "Eli Howey"
+"pages": "116"
+"width": "7"
+"height": "10"
+
+2018-07-05
+"published": "true"
+"title": "Nocturne"
+"price": "14.95"
+"author": "Tara Booth"
+"pages": "64"
+"width": "5.8"
+"height": "8"
+
+2018-07-06
+"published": "true"
+"title": "Spring Collection 2018"
+"author": "Collection"
+"author": "Tara Booth"
+"author": "Eli Howey"
+"author": "Maggie Umber"
+"author": "Alexis Beauclair"
+"author": "Justin Skarhus"
+"author": "Apolo Cacho"
+"author": "Fifi Martinez"
+"author": "Christopher Adams"
+"price": "65"
+
+2018-08-02
+"published": "true"
+"title": "Altcomics Magazine 6"
+"price": "5"
+"author": "Altcomics"
+"author": "Blaise Larmee"
+"author": "Kyung-Me"
+"author": "Helen Stefanie"
+"author": "Michel Esselbrügge"
+"author": "Robin Vehrs"
+"author": "Cynthia Alfonso"
+"author": "Óscar Raña"
+"author": "Julia Huete"
+"author": "Kevin Huizenga"
+"pages": "24"
+"width": "8.5"
+"height": "11"
+
+2019-06-05
+"published": "true"
+"title": "Mirror Mirror 3"
+"price": "19.95"
+"author": "Mirror Mirror"
+"author": "Plum Press"
+"pages": "108"
+"width": "6"
+"height": "8"
+
+2019-11-25
+"published": "true"
+"title": "Röhner"
+"price": "19.95"
+"author": "Max Baitinger"
+"pages": "216"
+"width": "6"
+"height": "8.2"
+
+2020-01-11
+"published": "true"
+"title": "Copy Kitty"
+"author": "Kyung-Me"
+"price": "19.95"
+"pages": "56"
+"width": "11"
+"height": "8"
+
+2012-07-12
+"published": "false"
+"title": "Good Minnesotan 1"
+"author": "Meghan Hogan"
+"author": "Justin Skarhus"
+"author": "Raighne Hogan"
+"price": "3"
+
+2012-08-12
+"published": "false"
+"title": "Good Minnesotan 2"
+"author": "Various"
+"price": "5"
+
+2012-09-12
+"published": "false"
+"title": "Good Minnesotan 3"
+"author": "Various"
+"price": "8"
+
+2012-10-12
+"published": "false"
+"title": "Good Minnesotan 4"
+"author": "Various"
+"price": "5"
+
+2013-06-04
+"published": "false"
+"title": "High Score"
+"author": "Various"
+"price": "4"
+
+2013-06-04
+"published": "false"
+"title": "Manny + Bigfoot"
+"author": "Meghan Hogan"
+"price": "5.00"
+
+2013-07-05
+"published": "false"
+"title": "The Death of Elijah Lovejoy"
+"author": "Noah Van Sciver"
+"price": "5.00"
+
+2013-07-05
+"published": "false"
+"title": "Dueling"
+"author": "Noah Van Sciver"
+"price": "3.00"
+
+2013-07-12
+"title": "Difficult Loves"
+"author": "Molly Colleen O'Connell"
+"price": "6"
+"published": "false"
+
+2013-07-12
+"published": "false"
+"title": "Party Food Playing Cards"
+"author": "Eric Schuster & Party Food"
+"price": "10"
+
+2013-07-12
+"published": "false"
+"title": "Porn Hounds 1"
+"author": "Sharon Lintz"
+"price": "4"
+
+2013-07-12
+"published": "false"
+"title": "Spider Monkey"
+"author": "Jesse McManus"
+"author": "Austin English"
+"price": "5"
+
+2013-07-12
+"published": "false"
+"title": "Un deux trois je ne suis plus là"
+"author": "Julie Doucet"
+"price": "10"
+
+2013-07-12
+"published": "false"
+"title": "Zone Rover"
+"author": "Brett Von Schlosser"
+"price": "8"
+
+2013-08-02
+"published": "false"
+"title": "Prizon Food Part 1"
+"author": "Eric Schuster & Party Food"
+"author": "Eric Schuster"
+"price": "6.00"
+
+2013-08-04
+"published": "false"
+"title": "Every/Body"
+"author": "Various"
+"price": "10.00"
+
+2013-10-11-99
+"published": "false"
+"title": "99 Plus Suicide Projects"
+"author": "Julie Doucet"
+"price": "5"
+
+2013-10-11
+"published": "false"
+"title": "Der Stein Nr 4"
+"author": "Julie Doucet"
+"price": "4"
+
+2013-10-12
+"published": "false"
+"title": "Der Stein Nr 7"
+"author": "Julie Doucet"
+"price": "4"
+
+2013-10-12
+"published": "false"
+"title": "Der Stein Nr 9"
+"author": "Julie Doucet"
+"price": "13"
+
+2013-10-12
+"published": "false"
+"title": "Noodles"
+"author": "Julie Doucet"
+"price": "14"
+
+2013-11-30
+"published": "false"
+"title": "The Christopher Adams Experience"
+"author": "Christopher Adams"
+"price": "20"
+
+2014-03-13
+"published": "false"
+"title": "Families"
+"author": "Various"
+"price": "20"
+
+2014-03-13
+"published": "false"
+"title": "Pornhounds 2"
+"author": "Sharon Lintz"
+"author": "Various"
+"price": "6"
+
+2014-03-14
+"published": "false"
+"title": "Errand Service"
+"author": "Will Dinski"
+"price": "5"
+
+2014-03-27
+"published": "false"
+"title": "Chipboard"
+"author": "Vincent Stall"
+"price": "10"
+
+2014-03-27
+"published": "false"
+"title": "Fantastic Plotte"
+"author": "Julie Doucet"
+"price": "22"
+
+2014-03-27
+"published": "false"
+"title": "Mould Map 3"
+"author": "Various"
+"price": "50"
+
+2014-03-27
+"published": "false"
+"title": "Robot Investigator"
+"author": "Vincent Stall"
+"price": "10"
+
+2014-03-27
+"published": "false"
+"title": "The Fuck and Doom"
+"author": "Vincent Stall"
+"price": "15"
+
+2014-03-27
+"published": "false"
+"title": "The Old Guys"
+"author": "Will Dinski"
+"price": "5"
+
+2014-11-15
+"published": "false"
+"title": "Desk with Integrated Storage"
+"author": "Saman Bemel-Benrud"
+"price": "3"
+
+2014-11-17
+"published": "false"
+"title": "Great Heights"
+"author": "MariNaomi"
+"price": "2"
+
+2014-11-17
+"published": "false"
+"title": "Pool Problems"
+"author": "Hannah Blumenreich"
+"price": "2"
+
+2015-04-06-3
+"published": "false"
+"title": "3 Books"
+"author": "Blaise Larmee"
+"price": "29.95"
+"pages": "288"
+"width": "6"
+"height": "9"
+
+2016-11-20
+"published": "false"
+"title": "Secure Connect"
+"price": "8"
+"author": "Carta Monir"
+"pages": "24"
+"width": "5"
+"height": "7"

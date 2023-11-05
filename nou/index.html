@@ -1,0 +1,14 @@
+---
+layout: subdirectory
+title: Nou
+section: nou
+---
+
+<!-- SHOP ITEMS -->
+<div class='feed col12'>
+  {% for article in site.categories.nou %}
+<article class='col4 shop-item'>
+    {% include subdirectory-nou.html %}
+</article>
+  {% endfor %}
+</div>

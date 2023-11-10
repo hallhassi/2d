@@ -34,7 +34,7 @@ section: shop
         <!-- IF RELATED SHOP ITEM -->
         {% for article in site.categories.shop %} {% assign authors = article.author | array_to_sentence_string %} {% if authors contains page.author[0] or authors contains page.author[1] or authors contains page.author[2] %} {% if page.title != article.title %}
 
-        <div style='width:100%;'>
+        <div style=';'>
             <div class='center col4nomax'>
             {% include feed-shop-alt-2.html %}
             </div>

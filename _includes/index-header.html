@@ -1,7 +1,0 @@
-<div id="zzz">
-    {% if page.url == '/' %}2dcloud<a href="./">2dcloud</a>{% endif %} 
-    <a href="https://shop.2dcloud.com">shop</a> 
-    <a href="mailto:info@2dcloud.com">email</a> 
-    <a href="substacks.html">substacks</a> 
-    {% for article in site.posts %}{% if article.category == 'shop' %}{% elsif article.category == "author"%}{% elsif article.category == "explodingwrists"%}{% elsif article.layout == "redirect"%}{% elsif article.category == "notpublic"%}{% else %}{% if article.url != page.url %}<a href='{{site.baseurl}}{{article.url}}'>{% endif %}{{article.title}}{% if article.url != page.url %}</a>{% endif %} {% endif %}{% endfor %}
-    {%endif%}
